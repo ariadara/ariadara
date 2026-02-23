@@ -8,3 +8,5 @@ Here are some ideas to get you started:
 - 🔭 I upload some uni lab activities
 - 🌱 I’m currently learning more about HTML, CSS, and JavaScript soon
 - ⚡ Fun fact: i love itzy and xdinary heroes
+
+<img src = "https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
