@@ -1,4 +1,7 @@
-<img src="{[BadgeURLHere](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnNsMmFhajJhaGM5MDdoaWtmZWxocWczdmdrdGg5d2s2Z25mZXlucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VfhwsthG6idekjnG4U/giphy.gif)}" />
+<img src="{[BadgeURLHere](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)}" />
+<img src="{[BadgeURLHere](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)}" />
+<img src="{[BadgeURLHere](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)}" />
+
 
 ## Hey 👋
 
